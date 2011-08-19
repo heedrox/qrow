@@ -1,0 +1,22 @@
+QROW - QR Over WIFI
+===================
+
+QROW is a system that intends to discover QR over WIFI.
+The idea is to find places in which "QROWs" fly. You open your
+mobile app, and catch those QROWs. 
+
+The idea is to make it as simple as QR codes are. You find a QROW, 
+and it takes you where it is supposed to take you.
+
+The same idea here: you find a QROW that remains in a WIFI, and it takes
+you to whatever service, page, ... lives inside that WIFI.
+
+QROWs are multicasted from a QROWServer. QROWReceivers just catch QROWs 
+and shows them to the user. The user selects the QROW who wants to read.
+
+QROWs can be used as a very SIMPLE system for services and pages discovery
+in a local zone.
+
+--------
+
+More info: jmarti@theinit.com
